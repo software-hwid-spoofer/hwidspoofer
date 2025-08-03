@@ -1,8 +1,8 @@
-# SimpleHWIDSpoofer
+# HWID Spoofer
 
-A simple HWID (Hardware ID) spoofer for Windows that modifies registry-based hardware identifiers.
+A HWID (Hardware ID) spoofer for Windows that modifies registry-based hardware identifiers.
 
-![SimpleHWIDSpoofer Interface](https://raw.githubusercontent.com/Lufzys/SimpleHWIDSpoofer/main/simpleHwidSpoofer.PNG)
+![HWID Spoofer Interface](https://raw.githubusercontent.com/Lufzys/SimpleHWIDSpoofer/main/simpleHwidSpoofer.PNG)
 
 ## ⚠️ Disclaimer
 
